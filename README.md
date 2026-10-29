@@ -2,7 +2,9 @@
 
 [**Download the latest APK**](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/latest/download/SMT-Medical-Delivery.apk)
 
-**Current release: 1.1.2 (build 9).** [Release details and checksum](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/tag/v1.1.2-build9).
+**Current release: 1.1.3 (build 10).** [Release details and checksum](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/tag/v1.1.3-build10).
+
+This release uses the new SMT Clinic email server and Admin API. The production password-reset email and reset page have been verified.
 
 Open the link on your Android phone. No GitHub account, Expo account, Expo Go, or
 development server is required. Allow your browser to install the downloaded app
