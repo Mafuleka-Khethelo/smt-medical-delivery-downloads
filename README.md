@@ -1,27 +1,27 @@
 # SMT Medical Delivery for Android
 
-[**Download the latest APK**](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/latest/download/SMT-Medical-Delivery.apk)
+**Latest version: 1.1.4 (build 11).**
 
-**Current release: 1.1.3 (build 10).** [Release details and checksum](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/tag/v1.1.3-build10).
+[Download the Android APK](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/latest/download/SMT-Medical-Delivery.apk)
 
-This release uses the new SMT Clinic email server and Admin API. The production password-reset email and reset page have been verified.
+Open the link on your Android phone. When the download finishes, open the APK to install it. If Android asks, allow installation from your browser. Keep your existing SMT app installed and choose Update.
 
-Open the link on your Android phone. No GitHub account, Expo account, Expo Go, or
-development server is required. Allow your browser to install the downloaded app
-when Android asks. If SMT is already installed, choose **Update** and keep the existing app installed.
+This is a standalone app. Expo Go and a development server are not required. It supports Android 7.0 or newer. The universal APK is approximately 108 MB and includes support for multiple Android processor types.
 
-New drivers can choose **Create account**, upload the three required documents and wait for verification. Drivers can replace requested documents from the app after review. Driver wallets show **Wallet under maintenance. Check back soon.**
+This release updates the sign-in, profile choices, registration and driver verification screens. Continue appears directly below the profile choices. Forms scroll above the keyboard, typing keeps the normal cursor position, and the back buttons return through registration to sign-in. Email and API connections use the SMT custom domains. Driver wallets remain under maintenance.
 
-The **Messages and document corrections** button now scrolls with the driver waiting screen, below the document review.
+## Use SMT in your browser
 
-Startup no longer waits indefinitely for font loading. This build also includes Forgot password below the password field, agreement checkboxes at the end of signup, and the patient payment disclaimer. The app is distributed directly as an APK and is not listed in an app store.
+- [Patient and driver app](https://app.smtmedtech.co.za)
+- [Clinic portal](https://clinic.smtmedtech.co.za/login)
+- [Admin portal](https://admin.smtmedtech.co.za/login)
 
-Requires Android 7.0 or newer. The APK includes ARM64, ARMv7, x86 and x86-64 builds.
-Application ID: `za.co.smtmedical.delivery`.
+## Release verification
 
-For the version, download size, and SHA-256 checksum, open the
-[latest release](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/latest).
+[Release details and checksum](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/tag/v1.1.4-build11)
 
-This repository distributes only Android APKs and checksums. The application source
-is maintained separately. Use the GitHub download link above rather than forwarding
-an expiring Expo storage URL.
+The APK uses the existing SMT release signing certificate. Its public download was checked against the locally verified file.
+
+SHA-256: `6e1b35f166a1fc23f0bb371d0395502277a3cf2236faaa54563d519e7b702682`
+
+Only install SMT-Medical-Delivery.apk from this repository. Application source is maintained separately.
