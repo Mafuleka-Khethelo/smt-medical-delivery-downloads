@@ -16,9 +16,9 @@ Open the download on your Android phone and open the APK to install. If Android 
 
 ## Separate delivery testing
 
-[Download SMT Test APK](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/download/v1.1.7-build14/SMT-Test.apk)
+[Download SMT Test APK](https://github.com/Mafuleka-Khethelo/smt-medical-delivery-downloads/releases/download/v1.1.8-test-build15/SMT-Test.apk)
 
-SMT Test is for designated testers. Its wallet is enabled for test-ledger balance and history. It starts at R0 when there are no earnings. Bank verification needs sandbox credentials and payouts remain paused. It installs beside the public app with a different Android ID and uses separate accounts, database and storage. Test deliveries do not reach public drivers or change their registrations. Use fictional details and document photos. Test accounts and passwords are provided privately, never in this repository.
+SMT Test 1.1.8 (build 15) restores the compact blue wallet balance card, bank summary and earnings/payout history. Payout details expand when needed. SMT Test is for designated testers. Its wallet is enabled for test-ledger balance and history. It starts at R0 when there are no earnings. Bank verification needs sandbox credentials and payouts remain paused. It installs beside the public app with a different Android ID and uses separate accounts, database and storage. Test deliveries do not reach public drivers or change their registrations. Use fictional details and document photos. Test accounts and passwords are provided privately, never in this repository.
 
 - [Testing app](https://smt-app-testing.vercel.app)
 - [Testing Clinic portal](https://smt-clinic-testing.vercel.app/login)
